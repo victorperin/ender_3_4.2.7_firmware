@@ -3,6 +3,11 @@
 Automatic [Marlin](https://github.com/MarlinFirmware/Marlin) builds for the Ender-3 with the stock creality 4.2.7(512K) board.  
 You can find both stable and nightly (`bugfix-2.1.x`) downloads on the repository releases.  
 
+### **This is a fork from 4.2.2 project**
+In the currently state I do not have a working firmware, and I will update this info when I test it.
+
+I have no idea what I'm doing, please, do not use this project without understand what you are doing.
+
 **Important**
 * Make sure you have a 4.2.7 512K flash board before installing. Some newer models come with 256K of flash. You can read more [here](https://github.com/MarlinFirmware/Marlin/issues/23596). If your board is the 256K variant you can fork the repo and change the `board_env`.
 * All builds here use the default `A4988` stepper drivers, you can fork and change that if you have different ones. To find out which drivers you have there is a little marking on the sd card slot. More info [here](https://github.com/MarlinFirmware/Configurations/pull/633#issuecomment-995206382).
