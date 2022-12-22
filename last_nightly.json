@@ -1,4 +1,14 @@
 {
+    "builds/autoLevel10x10.js": {
+        "version": "4b4d98d282f2760e760b9f2ccca8dcc8831f7f8d",
+        "md5": "01b636ceabb3ef947a8adc762a08f6be",
+        "assetId": 89203064
+    },
+    "builds/autoLevel10x10Lin.js": {
+        "version": "4b4d98d282f2760e760b9f2ccca8dcc8831f7f8d",
+        "md5": "5ce370217a9372f2d8b60bbb649b9f50",
+        "assetId": 89203067
+    },
     "builds/autoLevel5x5.js": {
         "version": "4b4d98d282f2760e760b9f2ccca8dcc8831f7f8d",
         "md5": "65d5f2d5bb3f8b51c39ea78dc156ab57",
